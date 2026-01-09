@@ -1,5 +1,5 @@
 # MAED-Projects-EMP
-This repository contains a collection of projects developped as part of MAED training at Energy Modelling PLatform events. It is organised by country with each folder containing model files, presentations, and reports developed during the three-week training events.
+This repository contains a collection of projects developped as part of MAED training at Energy Modelling Platform events. It is organised by country with each folder containing model files, presentations, and reports developed during the three-week training events.
 
 ## Projects
 The following projects have been completed so far:
